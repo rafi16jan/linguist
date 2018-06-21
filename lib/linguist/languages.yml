@@ -3673,6 +3673,7 @@ Python:
   - ".py3"
   - ".pyde"
   - ".pyi"
+  - ".pyj"
   - ".pyp"
   - ".pyt"
   - ".pyw"
